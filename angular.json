@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/normalize.css",
               "src/styles.scss"
             ],
             "scripts": []
